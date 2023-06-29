@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    ;
+    border-spacing: 0px;
+
+    
+}
+
+
+.blue{
+    border: 1px solid black;
+    width: 200px;
+    height: 150px;
+    background-color: skyblue;
+   
+    
+    
+}
+.green{
+    border: 1px solid black;
+    width: 200px;
+    height: 150px;
+    background-color: white;
+    
+}
+img{
+    width: 100px;
+    margin-left: 40px;     
+}

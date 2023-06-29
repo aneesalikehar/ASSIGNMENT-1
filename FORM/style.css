@@ -1,0 +1,68 @@
+*{
+    background-color: gray;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+.Main{
+    align-items: center;
+}
+.header h1{
+    background-color:gray;
+    padding: 15px;
+    color: white;
+    margin-left: -120px;
+}
+
+.foarm{
+    border: 1px solid blue;
+    width: 400px;
+    margin-left: 530px;
+    padding: 40px;
+    ;
+    margin-top: 10px;
+    
+}
+ .input input{
+    width: 100%;
+    border: 1px solid gray;
+    margin-left: 1px;
+    background-color: white
+    ;
+    padding: 5px;
+    text-align: left;
+ }
+
+ .input .name,
+ .lastname,
+ .email,
+ .phone,
+ .position,
+ .Resume,
+ .portfolio,
+ .salary,
+ .time,
+ .radio{
+    font-weight: bold;
+    text-align: left;
+    margin-top: 20px;
+ }
+
+ .input .radiotype{
+   display: inline-flex;
+   margin: 10px;
+   /* margin-left: -150px; */
+   gap: 18px;
+   font-size: 16px;
+ }
+ textarea{
+    width: 100%;
+    border: 1px solid gray;
+    margin-left: 1px;
+    background-color: white
+    ;
+ }
+ 

@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+    text-align: center;
+    margin-top: 10px;
+    padding: 10px;
+    font-family: sans-serif;
+    background-color: gray;
+}
+
+h1{
+    color: aqua;
+    background-color: blue;
+}
+li a{
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none ;
+}
